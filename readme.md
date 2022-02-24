@@ -1,6 +1,9 @@
 How to run:
-1. set the database config in backend/db/dbconfig
-2. In backend folder, run 
+1. set the database config in backend/db/dbconfig, also run 
+```
+npm install
+```
+3. In backend folder, run 
 ```
 node index.js
 ```
